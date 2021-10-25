@@ -16,6 +16,22 @@ compatibility utilities for using darktable
 4. Adobe_imageDevelopBeforeSettings
 5. Adobe_imageDevelopSettings
 6. Adobe_AdditionalMetadata
+7. AgHarvestedDNGMetadata
+8. AgHarvestedExifMetadata
+9. AgHarvestedIptcMetadata
+10. AgHarvestedMetadataWorklist
+11. AgInternedExifCameraModel
+12. AgInternedExifCameraSN
+13. AgInternedExifLens
+14. AgInternedIptcCity
+15. AgInternedIptcCountry
+16. AgInternedIptcCreator
+17. AgInternedIptcCountryCode
+18. AgInternedIptcJobIdentifier
+19. AgInternedIptcLocation
+20. AgInternedIptcState
+21. AgLastcatalogExport
+22. 
 
 ## Known and Unsupported LR tables
 * Adobe_libraryImageDevelop3DLUTColorTable
