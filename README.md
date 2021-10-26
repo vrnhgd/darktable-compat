@@ -31,7 +31,31 @@ compatibility utilities for using darktable
 19. AgInternedIptcLocation
 20. AgInternedIptcState
 21. AgLastcatalogExport
-22. 
+22. AgLibraryCollection
+    1. creationId
+    2. imageCount
+    3. name
+    4. parent (does DT support groups?)
+23. AgLibraryFile
+    1. id_local
+    2. id_global
+    3. baseName
+    4. extension
+    5. folder
+    6. idx_filename
+    7. sidecarExtensions (check after XMP export)
+24. AgLibraryFolder
+    1. id_local
+    2. id_global
+    3. parentId
+    4. pathFromRoot
+    5. rootFolder
+    6. visibility
+25. AgLibraryIPTC
+26. AgLibraryRootFolder
+    1. id_local
+    2. id_global
+    3. absolutePath
 
 ## Known and Unsupported LR tables
 * Adobe_libraryImageDevelop3DLUTColorTable
